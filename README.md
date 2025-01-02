@@ -1,6 +1,29 @@
-# Hi, I'm Reha(AKA ExceptRea🎨)! 👋
+---
 
-Welcome to my GitHub profile! I'm a recent graduate with a Bachelor's in Electrical and Electronics Engineering, and I'm currently diving deep into **game development** using **Godot**—this is where my true focus lies right now. I love experimenting with new technologies and building projects that combine my technical and creative skills.
+<p align="center">
+  <a href="https://github.com/rehawild">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="rehawild" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rehawild">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Game%20Developer;Pixel%20Artist;Electrical%20Engineer%20turned%20Game%20Dev&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/rehawild?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rehawild?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/rehawild?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rehawild?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 Here's a list of things I currently keep myself busy with:
 🌱 **Learning game development** in Godot and building my game development portfolio  
@@ -29,5 +52,7 @@ When I'm not coding, I'm creating pixel art and game assets. I’ve taught **pix
 ## 📚 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/metinrehaermetin/) - Professional updates and networking  
 - [Email](mailto:rehawild@gmail.com) - Let's chat!
+
+---
 
 Feel free to explore my repositories and game projects. I’m always open to collaboration and new game development ideas. Let’s make something awesome together! 🎮🌟
