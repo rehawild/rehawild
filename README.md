@@ -1,14 +1,12 @@
----
-
 <p align="center">
   <a href="https://github.com/rehawild">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="rehawild" />
+    <img src="https://github.com/rehawild/rehawild/blob/main/m.reha.ermetin.png" alt="rehawild" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rehawild">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Game%20Developer;Pixel%20Artist;Electrical%20Engineer%20turned%20Game%20Dev&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Game%20Developer;Pixel%20Artist;Electrical%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=00FF00&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
