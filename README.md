@@ -21,36 +21,24 @@
   </a>
 </p>
 
----
-
-Here's a list of things I currently keep myself busy with:
-🌱 **Learning game development** in Godot and building my game development portfolio  
-💼 **Exploring control systems**, **AI**, and **PLC programming**  
-🎨 **Creating pixel art** (2D & 3D) for games and NFTs
-
-## 🎮 Game Development in Godot
-I'm learning and building games with **Godot**, an open-source game engine. My goal is to master it and develop various games, from 2D platformers to complex systems involving **AI**, **control theory**, and **simulation**. I'm always experimenting and improving my skills to create engaging experiences.
+### 🚀 Current Focus
+- **🎮 Game Development**: Learning **Godot**.
+- **💼 Technical Skills**: **Control Systems**, **AI**,**MATLAB Simulink Simulation** and **PLC Programming**.
+- **🎨 Creative Projects**: **Pixel Art**, 2D & 3D art, and teaching pixel art.
 
 ## 🛠️ Skills & Technologies
-- **Programming Languages:** GDScript (Godot), Python, C++, JavaScript, C#
-- **Tools & Frameworks:** Godot Engine, MATLAB, Simulink, Databricks, Azure, Xilinx ISE
-- **Design Tools:** Photoshop, Aseprite, Blender
-- **Other:** PLC, Embedded Systems, AI, Machine Learning
+- **Languages**: GDScript (Godot), Python, C++, JavaScript, C#
+- **Tools**: Godot Engine, MATLAB, Simulink, TIA Portal, Databricks, Azure, Xilinx ISE
+- **Design**: Photoshop, Aseprite, Blender
+- **Specializations**: PLC, Embedded Systems, AI, Machine Learning
 
-## 🚀 Goals
-- **Short-term:** Master Godot, create engaging games, and improve my coding skills  
-- **Long-term:** Build a scalable game development business that merges my technical and creative expertise
+## 🎨 Pixel Art & Game Design
+When not coding, I’m focused on pixel art and game assets. I’ve taught **pixel art courses** and I'm passionate about game design.
 
-## 🎨 Creative Side
-When I'm not coding, I'm creating pixel art and game assets. I’ve taught **pixel art courses**, and my passion for creativity continues to grow through game design and **NFT art**.
+- [Twitter](https://twitter.com/exceptrea) - Pixel art showcase and art updates!
+- [Instagram](https://instagram.com/exceptrea) - Follow my art!
 
-- [Twitter](https://twitter.com/exceptrea) - Check out my pixel art!
-- [Instagram](https://instagram.com/exceptrea) - Check out my pixel art!
-
-## 📚 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/metinrehaermetin/) - Professional updates and networking  
+## 📬 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/metinrehaermetin/) - Professional updates  
 - [Email](mailto:rehawild@gmail.com) - Let's chat!
 
----
-
-Feel free to explore my repositories and game projects. I’m always open to collaboration and new game development ideas. Let’s make something awesome together! 🎮🌟
