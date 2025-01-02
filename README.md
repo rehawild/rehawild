@@ -1,4 +1,4 @@
-# Hi there, I'm Rehalization! 👋
+# Hi there, I'm Reha! 👋
 
 Welcome to my GitHub profile! I'm a recent graduate with a Bachelor's in Electrical and Electronics Engineering, passionate about **Control Systems**, **Artificial Intelligence**, and **PLC Programming**. But these days, I'm diving deep into **game development** and **building games with Godot**—this is where my true focus lies right now.
 
@@ -8,7 +8,7 @@ I'm learning and building games using **Godot**—an open-source game engine tha
 ## 🎓 About Me
 - **Degree:** Electrical and Electronics Engineering
 - **Technical Skills:** Control Systems, PLC Programming, Circuit Design, Systems Simulation
-- **Creative Skills:** Pixel Art (2D & 3D), Game Design, NFT Art
+- **Creative Skills:** Pixel Art (2D & 3D), Game Design
 - **Current Focus:** Building games in Godot and expanding my game development portfolio.
 
 ## 🚀 Goals
@@ -17,11 +17,8 @@ I'm learning and building games using **Godot**—an open-source game engine tha
 
 ## 🎨 Creative Side
 When I'm not coding, I'm creating pixel art (2D & 3D). I’ve taught **pixel art courses**, and my creative passion continues to grow as I work on different game designs, including **NFT** art and game assets.
-
-## 🌍 Other Interests
-- **Traveling:** Exploring new places and cultures.
-- **Cooking:** Experimenting with international dishes.
-- **Mindfulness:** Practicing self-awareness and finding balance.
+- [Twitter](https://twitter.com/exceptrea) - Check out my pixel art!
+- [Instagram](https://instagram.com/exceptrea) - Check out my pixel art!
 
 ## 🛠️ Skills & Technologies
 - **Programming Languages:** GDScript (Godot), Python, C++, JavaScript, C#
@@ -30,8 +27,7 @@ When I'm not coding, I'm creating pixel art (2D & 3D). I’ve taught **pixel art
 - **Other:** PLC, Embedded Systems, AI, Machine Learning
 
 ## 📚 Let's Connect
-- [Blog](https://yourbloglink.com) - Sharing my journey, game dev progress, and projects!
-- [LinkedIn](https://www.linkedin.com/in/rehalization) - Professional updates and networking.
-- [Twitter](https://twitter.com/rehalization) - Game dev, pixel art, and more!
+- [LinkedIn]([https://www.linkedin.com/in/metinrehaermetin](https://www.linkedin.com/in/metinrehaermetin/)) - Professional updates and networking.
+- [Email]([rehawild@gmail.com](rehawild@gmail.com)) - Professional updates and networking.
 
 Feel free to check out my repositories, contributions, and open-source game projects! I’m always looking for collaboration opportunities and new game development ideas. Let's make something awesome together! 🎮🌟
