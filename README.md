@@ -1,4 +1,4 @@
-# Hi, I'm Reha! 👋
+# Hi, I'm Reha(AKA ExceptRea🎨)! 👋
 
 Welcome to my GitHub profile! I'm a recent graduate with a Bachelor's in Electrical and Electronics Engineering, and I'm currently diving deep into **game development** using **Godot**—this is where my true focus lies right now. I love experimenting with new technologies and building projects that combine my technical and creative skills.
 
