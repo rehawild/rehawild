@@ -19,8 +19,8 @@
 
 ## 🛠️ Skills & Technologies
 - **Languages**: GDScript (Godot), Python, C, MATLAB
-- **Tools**: Godot Engine, MATLAB, Simulink, TIA Portal, Databricks, Azure, Xilinx ISE
-- **Design**: Photoshop, Aseprite, Blender
+- **Tools**: Godot Engine, MATLAB, Simulink, TIA Portal, numphy, tkinter, Azure
+- **Design**: Photoshop, Aseprite, Blender, Illustrator, Lightshot, Premiere Pro, After Effects, MagicaVoxel
 - **Specializations**: PLC, Embedded Systems, AI, Machine Learning
 
 ## 🎨 Pixel Art & Game Design
