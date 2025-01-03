@@ -18,7 +18,7 @@
 - **🎨 Creative Projects**: **Pixel Art**, 2D & 3D art, and teaching pixel art.
 
 ## 🛠️ Skills & Technologies
-- **Languages**: GDScript (Godot), Python, C++, JavaScript, C#
+- **Languages**: GDScript (Godot), Python, C, MATLAB
 - **Tools**: Godot Engine, MATLAB, Simulink, TIA Portal, Databricks, Azure, Xilinx ISE
 - **Design**: Photoshop, Aseprite, Blender
 - **Specializations**: PLC, Embedded Systems, AI, Machine Learning
