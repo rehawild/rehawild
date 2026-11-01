@@ -10,6 +10,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
+</p>
+
 <br/>
 
 ### 🚀 Current Focus
